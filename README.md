@@ -1,5 +1,5 @@
-# Chat With Webpages Using Langchain
-Chat With Webpages is a python program built on the LangChain framework, enabling users to extract information from webpages provided as URLs and engage in conversational question answering with a responsive chatbot interface. It utilizes natural language processing to understand user queries and provides relevant answers based on the content. With this tool, users can interact with a chatbot interface to obtain relevant answers pertaining to the content of the provided webpage.
+# Chat With Webpage Using Langchain
+Chat With Webpage is a python program built on the LangChain framework, enabling users to extract information from webpages provided as URLs and engage in conversational question answering with a responsive chatbot interface. It utilizes natural language processing to understand user queries and provides relevant answers based on the content. With this tool, users can interact with a chatbot interface to obtain relevant answers pertaining to the content of the provided webpage.
 
 ## Features
     -Seamless integration with the LangChain framework.
