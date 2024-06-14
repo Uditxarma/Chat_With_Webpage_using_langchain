@@ -96,18 +96,18 @@ def get_response(user_input):
 
 
 # app config
-st.set_page_config(page_title="Chat with websites", page_icon="🤖")
-st.title("Chat with websites")
+st.set_page_config(page_title="Chat with webpage", page_icon="🤖")
+st.title("Chat with webpage")
 
 # sidebar
 with st.sidebar:
     st.header("Settings")
-    website_url = st.text_input("Website URL")
+    website_url = st.text_input("Webpage URL")
 
 load_dotenv()
 
 if website_url is None or website_url == "":
-    st.info("Please enter a website URL")
+    st.info("Please enter a webpage URL")
 
 else:
     # session state
