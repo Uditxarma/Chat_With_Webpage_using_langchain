@@ -9,7 +9,7 @@ Chat with webpage is a python program built on the LangChain framework, enabling
     -Efficient question answering based on the content of the provided webpage.
 
 ## Note:
-    -We have three python files having same mechanism but with llm models(ChatOpenAI, AzureChatOpenAI,Ollama) 
+    -You have three Python files, each utilizing a different language model for chat functionality: ChatOpenAI, AzureChatOpenAI, and Ollama. 
     -if following Error exists:
         -Your system has an unsupported version of sqlite3. Chroma requires sqlite3 >= 3.35.0.
             #Paste this line in .venv path(.venv/lib/python3.11/site-packages/chromadb/__init__.py)
